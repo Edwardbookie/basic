@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic-application" />
+        <module name="basic-client-bom" />
+        <module name="basic-model-bom" />
+        <module name="basic-server-bom" />
+        <module name="basic-user-client" />
+        <module name="basic-user-model" />
+        <module name="basic-user-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic" target="1.8" />
+      <module name="basic-application" target="1.8" />
+      <module name="basic-bom" target="1.8" />
+      <module name="basic-client-bom" target="1.8" />
+      <module name="basic-model-bom" target="1.8" />
+      <module name="basic-server-bom" target="1.8" />
+      <module name="basic-user" target="1.8" />
+      <module name="basic-user-client" target="1.8" />
+      <module name="basic-user-model" target="1.8" />
+      <module name="basic-user-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
