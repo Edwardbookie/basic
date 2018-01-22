@@ -32,22 +32,27 @@
             <version>${lombok.version}</version>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>nexus</id>
+            <url>http://127.0.0.1:8081/repository/maven-public/</url>
+        </repository>
+    </repositories>
 
     <pluginRepositories>
         <pluginRepository>
-            <id>maven-public</id>
+            <id>nexus</id>
             <url>http://127.0.0.1:8081/repository/maven-public/</url>
         </pluginRepository>
     </pluginRepositories>
 
     <distributionManagement>
         <snapshotRepository>
-            <id>maven-snapshots</id>
+            <id>nexus</id>
             <url>http://127.0.0.1:8081/repository/maven-snapshots/</url>
-            <uniqueVersion>true</uniqueVersion>
         </snapshotRepository>
         <repository>
-            <id>maven-releases</id>
+            <id>nexus</id>
             <url>http://127.0.0.1:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>

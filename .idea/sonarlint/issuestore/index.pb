@@ -35,3 +35,21 @@ R
 "basic-bom/basic-server-bom/pom.xml,2/3/2344f2ab8e97d4e65fcd6577a5f758c1dfe298a7
 …
 Ubasic-user/basic-user-client/src/main/java/com/hup/basic/user/client/UserService.java,b/8/b859d98b9f2b5e9ab3e05a891a895aa27d6e2f24
+9
+	basic.iml,1/9/196b0ecdf6cdc4b0b6b669d2406c053039a3228f
+W
+'basic-application/basic-application.iml,3/a/3aa1ad164e4c6ffd0a771ee8dd85a41d57bcea65
+_
+/basic-bom/basic-client-bom/basic-client-bom.iml,5/8/5801a673bb2be688ffc571ee23cf6b5829d7ecd1
+]
+-basic-bom/basic-model-bom/basic-model-bom.iml,1/3/13bbc2355dc146ec87b48d7ba72820462558965a
+_
+/basic-bom/basic-server-bom/basic-server-bom.iml,f/b/fb48496e40d70f25c99ed41edb0d4d8f52a9f4a8
+I
+basic-user/basic-user.iml,9/f/9f6f293b84ccdb1fe77859c09c12f95718011ef3
+b
+2basic-user/basic-user-client/basic-user-client.iml,a/9/a9296a80408336568914699e3c9b70fba96823ca
+`
+0basic-user/basic-user-model/basic-user-model.iml,2/c/2c1e8c1ef578ff272726b7c3f6244c500b556cac
+b
+2basic-user/basic-user-server/basic-user-server.iml,6/d/6d9fa5e8f7208f39a427ff021eaf3dd8f6e871d9

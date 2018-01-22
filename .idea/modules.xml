@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/basic-bom/basic-model-bom/basic-model-bom.iml" filepath="$PROJECT_DIR$/basic-bom/basic-model-bom/basic-model-bom.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-bom/basic-server-bom/basic-server-bom.iml" filepath="$PROJECT_DIR$/basic-bom/basic-server-bom/basic-server-bom.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-user/basic-user.iml" filepath="$PROJECT_DIR$/basic-user/basic-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-user/basic-user-api/basic-user-api.iml" filepath="$PROJECT_DIR$/basic-user/basic-user-api/basic-user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-user/basic-user-client/basic-user-client.iml" filepath="$PROJECT_DIR$/basic-user/basic-user-client/basic-user-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-user/basic-user-model/basic-user-model.iml" filepath="$PROJECT_DIR$/basic-user/basic-user-model/basic-user-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-user/basic-user-server/basic-user-server.iml" filepath="$PROJECT_DIR$/basic-user/basic-user-server/basic-user-server.iml" />

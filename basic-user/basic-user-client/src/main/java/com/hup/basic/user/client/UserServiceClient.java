@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 @FeignClient("basic-server")
 @RequestMapping(value = "/user")
-public interface UserService {
+public interface UserServiceClient {
 
     @GetMapping(value = "/{id}")
     public User findOne(@PathVariable("id") Long id);
